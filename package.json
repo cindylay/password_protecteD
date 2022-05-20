@@ -1,0 +1,27 @@
+{
+  "name": "password_protected",
+  "version": "1.0.0",
+  "description": "Login App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    // "start": "node server”
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cindylay/password_protected.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cindylay/password_protected/issues"
+  },
+  "homepage": "https://github.com/cindylay/password_protected#readme",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
